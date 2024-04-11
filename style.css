@@ -1,0 +1,67 @@
+.home{
+    margin-top: 15vw;
+    margin-bottom: 2vw;
+}
+.d-flex{
+    padding: 5rem;
+}
+.img-fluid:hover{
+    transform: scale(1.05);
+}
+.img-fluid{
+    transition: transform 0.3 ease-in-out;
+}
+.container-fluid{
+    backdrop-filter: blur(10px);
+    position: fixed;
+    padding: 2rem;
+    top: -0.1rem;
+}
+.container2{
+    border-top: 0.5px solid;
+    border-bottom: 0.5px solid;
+    border-radius: 10px;
+    height: 20vw;  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.text-center{
+    margin-top: 10vw;
+}
+.profile-image{
+    width: 12vw;
+    height: 15vw;
+    border-radius: 100%;
+    margin-top: 1.2vw;
+}
+.text{
+    margin-top: 8vw;
+    font-style: italic;
+    font-size: 1.5vw;
+}
+.container3{
+    padding-top: -20vw;
+    margin: 2vw;
+    border-top: 0.5px solid;
+}
+.text-start{
+    margin-top: 2vw;
+    font-size: 1vw;
+
+}
+.inner-educ{
+    border-left: 1px solid;
+    margin-left: 2vw;
+    padding-left: 1vw;
+}
+.carousel{
+    margin-top: 4vw;
+}
+.d-block{
+    border-radius: 20vw;
+}
+.text-dark{
+    font-display: none;
+    color: black;
+}

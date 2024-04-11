@@ -1,5 +1,5 @@
 .home{
-    margin-top: 15vw;
+    margin-top: 10vw;
     margin-bottom: 2vw;
 }
 .d-flex{
@@ -14,8 +14,8 @@
 .container-fluid{
     backdrop-filter: blur(10px);
     position: fixed;
-    padding: 2rem;
-    top: -0.1rem;
+
+    top: -0.4rem;
 }
 .container2{
     border-top: 0.5px solid;
